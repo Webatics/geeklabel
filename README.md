@@ -1,4 +1,4 @@
-# Geekleak
+# Geeklabel
 
 A Drupal theme made for Geeklabel
 
